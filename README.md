@@ -1,4 +1,4 @@
-TrainingApp
+TrainingApp (an amazing projeect)
 ===========
 
 Play Store Link
